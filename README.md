@@ -1,4 +1,4 @@
-# COMP4021 Internet Computing Summary
+# COMP4021 Internet Computing
 
 ## HTML (Hypertext Markup Language)
 HTML is the standard markup language for creating web pages.
